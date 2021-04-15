@@ -1,0 +1,67 @@
+body{
+    width: 100%;
+    
+}
+.page{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+header{
+    background-color: rgb(32, 12, 32);
+    color: white;
+    
+}
+.top{
+    text-align: center;
+}
+.top h1{
+    text-transform: uppercase;
+    font-size: xx-large;
+    padding-top: 20px;
+    margin-bottom: 1px;
+    line-height: 20%;
+}
+.top p{
+    text-transform: capitalize;
+    font-size: larger;
+    line-height: 20%;
+    margin-bottom: 1px;
+}
+.top email{
+    line-height:100% ;
+    margin-top: 1px;
+}
+main{
+    text-align: justify;
+}
+h3{
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+main p{
+    margin-top: 5px;
+}
+main ul li{
+    margin-bottom: 2px;
+}
+.list li{
+    float: left;
+    width: 50%;
+    margin-bottom: 1px;
+}
+.low{
+   margin-top: 1px;
+   margin-bottom: 5px; 
+}
+.phase p{
+    margin-bottom: 5px;
+}
+li{
+    text-transform: capitalize;
+}
+p{
+    margin-bottom: 20px;
+    
+}
